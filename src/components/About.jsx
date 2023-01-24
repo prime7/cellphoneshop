@@ -7,14 +7,19 @@ export default function About() {
       <div className="content">
         <h3>best quality Repair services</h3>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim
-          laboriosam quidem eaque, ex qui fugit velit veniam veritatis a nostrum
-          amet perspiciatis pariatur ducimus ipsam officiis quae cumque maiores
-          voluptates!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus
-          iste ab eos ea rerum obcaecati illo ex recusandae expedita aspernatur?
+          Welcome to Prime Cell Repair, the best cellphone repair shop in
+          Vancouver. We offer a range of services for phones, iPads, laptops,
+          tablets, and MacBooks, as well as all the necessary accessories. Our
+          top priority is meeting the needs of our customers, which is why we
+          offer affordable pricing and do our best to help them out when their
+          devices are broken. We have a proven track record of providing the
+          best service to our customers and retaining them through our use of
+          OEM parts, ability to handle even the worst situations, and our
+          recommendation of the right solutions. Whether you need to fix a
+          broken phone, purchase a new one, or find the best pre/postpaid plans,
+          we've got you covered. Plus, we offer a price match guarantee,
+          lifetime warranty, and quick turnaround time with premium quality
+          parts. Visit us today and see for yourself why we're the best!"
         </p>
         <a href="#services" className="btn">
           read more

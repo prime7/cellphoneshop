@@ -5,39 +5,40 @@ export const headerContent = {
 };
 
 export const homeContent = {
-  title: "Canada’s Largest & Fastest Growing Cell Phone Repair Company",
-  text: "Fast Cell Repair is a professional and skillful Cell Phone repairing services provider in Canada. Have seven cell phone repair stores in Canada ( Vancouver & Burnaby  & New Westminster ) for all types of mobile restores. You can visit our outlet nearest to your place. We’ve certified and endured cell phone rebuilt technicians available in our stores. They can fluently diagnose your smartphone or a device problem and decide to resolve your issue at the most acceptable and most reasonable pricing, and ultimately try to fix it within 30 minutes.",
-  actionButton: "Button",
+  title:
+    "Welcome to Prime Cell Repair, if you need help we are here just a click away!!",
+  text: "Prime Cell has been working on repairs since the era of pagers. We know how important and how difficult is finding the right service center for your device.  We provide best service to all our customers with confidence and assure that the experience of fixing is beyond expectations.",
+  actionButton: "Read more",
 };
 
 export const serviceContent = [
   {
-    name: "Cell Phone Screen Repair",
+    name: "Repair any phone",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    name: "Cell Phone Battery Repair",
+    name: "Buy any phone",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    name: "Cell Phone Charging Port Repair",
+    name: "Prepaid plans",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    name: "Cell Phone Water Damage Repair",
+    name: "Repair any laptop/MacBook",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    name: "Cell Phone Camera Repair",
+    name: "Accessories",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    name: "Other Cell Phone Repairs",
+    name: "Gadgets",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },

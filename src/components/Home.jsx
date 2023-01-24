@@ -10,7 +10,7 @@ export default function Home() {
       </div>
 
       <div className="content">
-        <h3>{homeContent.title}</h3>
+        <h3 className="header-title">{homeContent.title}</h3>
         <p>{homeContent.text}</p>
         <a href="#about" className="btn">
           {homeContent.actionButton}

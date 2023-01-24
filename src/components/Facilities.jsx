@@ -11,31 +11,29 @@ export default function Facilities() {
       <div className="box-container">
         <div className="box">
           <img src="images/why-choose-icon-1.svg" alt="" />
-          <h3>24/7 support</h3>
+          <h3>Quick & convenient</h3>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat
-            eveniet illum eum cumque tempore. Quo nobis mollitia quis libero
-            ipsa?
+            We make repairs easy, we know how important your device is to you,
+            so we promise to return your device as early as possible.
           </p>
         </div>
 
         <div className="box">
           <img src="images/why-choose-icon-2.svg" alt="" />
-          <h3>quality service</h3>
+          <h3>Free diagnostics</h3>
+          <p>If you know the problem, we give clear upfront pricing.</p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat
-            eveniet illum eum cumque tempore. Quo nobis mollitia quis libero
-            ipsa?
+            If you don’t know the problem, we will diagnose and give a flat rate
+            quote.
           </p>
         </div>
 
         <div className="box">
           <img src="images/why-choose-icon-3.svg" alt="" />
-          <h3>quick repair</h3>
+          <h3>Lifetime warranty</h3>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repellat
-            eveniet illum eum cumque tempore. Quo nobis mollitia quis libero
-            ipsa?
+            Hassle free warranty claims for qualified repairs, we stand pro of
+            our warranties we offer.
           </p>
         </div>
       </div>

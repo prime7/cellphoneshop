@@ -91,7 +91,7 @@ export default function Footer() {
       </div>
 
       <div className="credit">
-        created by <span>mr. web designer</span> | all rights reserved!{" "}
+        created with <span>❤</span> All rights reserved
       </div>
     </section>
   );

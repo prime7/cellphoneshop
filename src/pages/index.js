@@ -11,6 +11,7 @@ import {
   Reviews,
   Brands,
   Services,
+  Issues,
 } from "../components";
 import "../css/style.css";
 
@@ -25,6 +26,7 @@ export default function index() {
       <Gallery />
       <Facilities />
       <Brands />
+      <Issues />
       <Reviews />
       <Contact />
       <Footer />

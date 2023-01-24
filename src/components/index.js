@@ -9,6 +9,7 @@ import Home from "./Home";
 import Reviews from "./Reviews";
 import Services from "./Services";
 import Brands from "./Brands";
+import Issues from "./Issues";
 
 export {
   About,
@@ -22,4 +23,5 @@ export {
   Reviews,
   Services,
   Brands,
+  Issues,
 };
