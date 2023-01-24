@@ -5,45 +5,39 @@ export const headerContent = {
 };
 
 export const homeContent = {
-  title: "Placeholder title",
-  text: "this will be replaced by some content about the company",
+  title: "Canada’s Largest & Fastest Growing Cell Phone Repair Company",
+  text: "Fast Cell Repair is a professional and skillful Cell Phone repairing services provider in Canada. Have seven cell phone repair stores in Canada ( Vancouver & Burnaby  & New Westminster ) for all types of mobile restores. You can visit our outlet nearest to your place. We’ve certified and endured cell phone rebuilt technicians available in our stores. They can fluently diagnose your smartphone or a device problem and decide to resolve your issue at the most acceptable and most reasonable pricing, and ultimately try to fix it within 30 minutes.",
   actionButton: "Button",
 };
 
 export const serviceContent = [
   {
-    imageSrc: "./service-1.svg",
-    name: "computer repair",
+    name: "Cell Phone Screen Repair",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    imageSrc: "service-2.svg",
-    name: "laptop repair",
+    name: "Cell Phone Battery Repair",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    imageSrc: "/service-3.svg",
-    name: "smartphone repair",
+    name: "Cell Phone Charging Port Repair",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    imageSrc: "../images/service-4.svg",
-    name: "gaming console repair",
+    name: "Cell Phone Water Damage Repair",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    imageSrc: "images/service-5.svg",
-    name: "multimedia repair",
+    name: "Cell Phone Camera Repair",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },
   {
-    imageSrc: "./images/service-6.svg",
-    name: "smartwatch repair",
+    name: "Other Cell Phone Repairs",
     detail:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, asperiores.",
   },

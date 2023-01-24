@@ -8,7 +8,7 @@ import Header from "./Header";
 import Home from "./Home";
 import Reviews from "./Reviews";
 import Services from "./Services";
-import Team from "./Team";
+import Brands from "./Brands";
 
 export {
   About,
@@ -21,5 +21,5 @@ export {
   Home,
   Reviews,
   Services,
-  Team,
+  Brands,
 };

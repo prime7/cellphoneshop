@@ -9,7 +9,7 @@ import {
   Header,
   Home,
   Reviews,
-  Team,
+  Brands,
   Services,
 } from "../components";
 import "../css/style.css";
@@ -24,7 +24,7 @@ export default function index() {
       <Services />
       <Gallery />
       <Facilities />
-      <Team />
+      <Brands />
       <Reviews />
       <Contact />
       <Footer />

@@ -1,15 +1,15 @@
 import React from "react";
-import { getSrc, StaticImage } from "gatsby-plugin-image";
+import { StaticImage } from "gatsby-plugin-image";
 import { serviceContent } from "../content/constants";
 
 export default function Services() {
   const images = [
-    <StaticImage src="../images/service-1.svg" alt="asd" />,
-    <StaticImage src="../images/service-2.svg" alt="asd" />,
-    <StaticImage src="../images/service-3.svg" alt="asd" />,
-    <StaticImage src="../images/service-4.svg" alt="asd" />,
-    <StaticImage src="../images/service-5.svg" alt="asd" />,
-    <StaticImage src="../images/service-6.svg" alt="asd" />,
+    <StaticImage src="../images/service-1.png" alt="asd" />,
+    <StaticImage src="../images/service-2.png" alt="asd" />,
+    <StaticImage src="../images/service-3.png" alt="asd" />,
+    <StaticImage src="../images/service-4.png" alt="asd" />,
+    <StaticImage src="../images/service-5.png" alt="asd" />,
+    <StaticImage src="../images/service-6.png" alt="asd" />,
   ];
   return (
     <section className="services" id="services">
